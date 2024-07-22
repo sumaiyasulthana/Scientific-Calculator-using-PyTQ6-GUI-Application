@@ -1,9 +1,8 @@
 # Scientific-Calculator-using-PyTQ6-GUI-Application
 
 **OBJECTIVE:**
-
-         The scientific calculator implemented using PyQt6 showcases the integration of a graphical user interface (GUI)
-         with functional calculations. Here’s a concise summary of the key aspects covered:
+          The scientific calculator implemented using PyQt6 showcases the integration of a graphical user interface (GUI)
+          with functional calculations. Here’s a concise summary of the key aspects covered:
 
 **GUI Design:**
 
@@ -35,6 +34,5 @@ The calculator’s GUI was designed using PyQt6, a Python library for creating d
           
 **Conclusion:**
         The implementation demonstrated effective utilization of PyQt6 for developing a functional and visually appealing scientific calculator application. By leveraging PyQt6’s capabilities, the project achieved seamless integration of GUI elements with powerful mathematical functionalities. Future enhancements could include additional scientific functions, improved user interface elements, and support for more advanced mathematical operations.
-        
-        Overall, the PyQt6-based scientific calculator project exemplifies the synergy between Python programming and GUI development,
-        showcasing practical application in educational, scientific, and professional contexts.
+Overall, the PyQt6-based scientific calculator project exemplifies the synergy between Python programming and GUI development,
+showcasing practical application in educational, scientific, and professional contexts.
